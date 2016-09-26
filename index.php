@@ -3,7 +3,7 @@
 <title>Red Hat Forum Rocks...</title>
 </head>
 <body>
-Application Version 2<br>
+Application Version 3<br><br>
 Running on:
 <?php
 echo gethostname();
